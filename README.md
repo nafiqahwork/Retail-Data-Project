@@ -1,8 +1,3 @@
-# Nur Afiqah Ahmad | Business Analyst
-*Solving Complex Business Problems| MBA Candidate*
-
----
-
 ## 📂 Featured Projects
 
 Due to the file size (over 25MB), the raw transaction data is hosted on Google Drive:
