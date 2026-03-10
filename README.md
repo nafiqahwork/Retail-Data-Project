@@ -51,7 +51,7 @@ The United States emerged as a major operational outlier, with a 46.9% return ra
 This suggests severe revenue leakage and logistical inefficiency.
 
 ## Market Return Rate Analysis
-<p align="center"> <img width="481" height="253" alt="image" src="https://github.com/user-attachments/assets/42e2754d-48a2-4448-802f-624c91e19792" /></p>
+<p align="center"><img width="481" height="253" alt="image" src="https://github.com/user-attachments/assets/42e2754d-48a2-4448-802f-624c91e19792" /></p>
 <p align="center"> Figure 01: Return Rate by Country — highlighting the USA as a high-risk market. </p>
 
 2. Sales Trend & Market Leader Analysis
@@ -70,7 +70,7 @@ Sales accelerate significantly from September to November, suggesting strong yea
 --- 
 
 ## Global Sales Seasonality
-<p align="center"> <img width="453" height="283" alt="image" src="https://github.com/user-attachments/assets/3a07fd70-7164-4ded-becd-987a7bc1bd69" /></p>
+<p align="center"><img width="453" height="283" alt="image" src="https://github.com/user-attachments/assets/3a07fd70-7164-4ded-becd-987a7bc1bd69" /></p>
 <p align="center"> Figure 02: Monthly global revenue showing strong Q4 seasonality. </p>
 
 
