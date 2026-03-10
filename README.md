@@ -112,22 +112,23 @@ The analysis identified 839 VIP “Big Buyer” customers responsible for a sign
 The analysis identified major revenue leakage in the US market, where nearly half of all shipments are returned.
 
    This represents:
-  - Wasted shipping costs
-  - Warehouse inefficiencies
-  - Significant profit erosion.
+   - Wasted shipping costs
+   - Warehouse inefficiencies
+   - Significant profit erosion.
 
 2. Operational Seasonality Insights
 Sales analysis revealed strong Q4 dependency, creating potential supply chain pressure known as the Bullwhip Effect.
 
    Strategic recommendation:
-  - Conduct warehouse audits during early-year demand slumps
-  - Begin peak inventory buildup by July
+   - Conduct warehouse audits during early-year demand slumps
+   - Begin peak inventory buildup by July
 
 3. Product Portfolio Optimization
 Revenue density analysis revealed high-margin “hidden gem” products that deliver significantly more revenue per shipment.
 
    Recommendation:
    - Expand high-margin product categories into new markets.
+     
 
 4. Customer Strategy Insight
 The business operates as a wholesale ecosystem, heavily dependent on a relatively small group of loyal buyers.
@@ -135,6 +136,7 @@ The business operates as a wholesale ecosystem, heavily dependent on a relativel
    Strategic recommendation:
    - Implement a VIP loyalty program for the top 800 customers
    - Shift from generic marketing → key account management
+
 
 ---
 
