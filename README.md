@@ -111,7 +111,7 @@ The analysis identified 839 VIP “Big Buyer” customers responsible for a sign
 1. Revenue Risk Identification
 The analysis identified major revenue leakage in the US market, where nearly half of all shipments are returned.
 
-  This represents:
+   This represents:
   - Wasted shipping costs
   - Warehouse inefficiencies
   - Significant profit erosion.
@@ -119,7 +119,7 @@ The analysis identified major revenue leakage in the US market, where nearly hal
 2. Operational Seasonality Insights
 Sales analysis revealed strong Q4 dependency, creating potential supply chain pressure known as the Bullwhip Effect.
 
-  Strategic recommendation:
+   Strategic recommendation:
   - Conduct warehouse audits during early-year demand slumps
   - Begin peak inventory buildup by July
 
